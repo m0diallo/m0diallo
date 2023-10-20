@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hello, I'm Mohammed! </h1>
+
+<h2>👨‍💻 Software Development Projects </h2>
+
+- Bank Account Simulator
+  - [Practicing functions, loops, switch statements, structures and classes in Swift](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📄 Certifications </h2>
+
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/3QZCFYKXYK3T)
 
 <!--
-**m0diallo/m0diallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
