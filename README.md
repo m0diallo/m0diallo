@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects </h2>
 
-- Bank Account Simulator
-  - [Practicing functions, loops, switch statements, structures and classes in Swift](https://github.com/m0diallo/BankAccountSimulator)
+- [Bank Account Simulator](https://github.com/m0diallo/BankAccountSimulator) 
 
 <h2>📄 Certifications </h2>
 
