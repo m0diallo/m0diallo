@@ -2,8 +2,8 @@
 
 <h2>🛡️ Security Software Development </h2>
 
-- [Secure Code Review Tool]
-- 
+- Secure Code Review Tool
+  
 <h2>📱 Mobile Software Development </h2>
 
 - [Bank Account Simulator](https://github.com/m0diallo/BankAccountSimulator) 
