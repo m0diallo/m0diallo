@@ -8,7 +8,7 @@
 <h2>📱 Mobile Software Development </h2>
 
 - [Bank Account Simulator](https://github.com/m0diallo/BankAccountSimulator)
-- [War Card Game]()
+- [War Card Game](https://github.com/m0diallo/WarCardGame)
 
 <h2>📄 Certifications </h2>
 
