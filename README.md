@@ -5,10 +5,12 @@
 - Secure Code Review Tool
 - [File Updates Algorithm](https://github.com/m0diallo/FileUpdatesAlgorithm)
   
-<h2>📱 Mobile Software Development </h2>
+<h2>📱 iOS Mobile Software Development </h2>
 
 - [Bank Account Simulator](https://github.com/m0diallo/BankAccountSimulator)
 - [War Card Game](https://github.com/m0diallo/WarCardGame)
+- Earthquakes
+- Today
 
 <h2>📄 Certifications </h2>
 
