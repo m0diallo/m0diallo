@@ -1,7 +1,7 @@
 <h1>Hello, I'm Mohammed! </h1>
 
 <h2> 📊 Data Analysis </h2>
-- CASE STUDY: Hacker Statistics
+- Case Study: Hacker Statistics
 
 <h2>🛡️ Security Software Development </h2>
 
